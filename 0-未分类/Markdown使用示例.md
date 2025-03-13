@@ -76,5 +76,5 @@ x^2^ <br />
 ==高亮== <br />
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=923433866&bvid=BV1cT4y1p79B&cid=1399157946&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
-[^a]:字母表第一个 
 [id]:https://leetcode.cn "游戏网站"
+[^a]:字母表第一个 
