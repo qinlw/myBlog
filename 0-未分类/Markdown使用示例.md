@@ -1,4 +1,8 @@
-# 注：部分内容可能不支持，从而无法正常显示
+### 注：部分内容github可能不支持，从而无法正常显示
+
+### github所支持的语法详见[官方文档](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+---
 
 # 标题1
 ## 标题2
@@ -67,14 +71,27 @@ https://leetcode.cn/
 ![图片](https://img1.baidu.com/it/u=2370595099,2069636640&fm=253&fmt=auto&app=138&f=JPEG?w=800&h=800 "图片素材")
 
 *斜体*  
+
 **加粗**  
+
 `printf()`  
-<u>下划线<u>  
-$\theta=x^2$ <br />
-H~2~O <br />
-x^2^ <br />
-==高亮== <br />
+
+<u>下划线</u>  
+
+$\theta=x^2$ 
+
+H~2~O 
+
+x^2^ 
+
+==高亮== 
+
+
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=923433866&bvid=BV1cT4y1p79B&cid=1399157946&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
+
 [id]:https://leetcode.cn "游戏网站"
+
 [^a]:字母表第一个 
+
+The background color is `#0969DA` for light mode and `#0969DA` for dark mode.
