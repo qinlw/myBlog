@@ -17,3 +17,4 @@
 &emsp;&emsp;&emsp;&emsp;[1.2.1-单例模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.2-%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.2.1-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
 &emsp;&emsp;&emsp;&emsp;[1.2.2-简单工厂模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.2-%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.2.2-%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8F.md)
+
