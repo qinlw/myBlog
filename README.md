@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.2.6-原型模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.2-%E5%88%9B%E5%BB%BA%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.2.6-%E5%8E%9F%E5%9E%8B%E6%A8%A1%E5%BC%8F.md)
 
-&emsp;&emsp;[1.3-结构性模式](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.3-%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F)
+&emsp;&emsp;[1.3-结构型模式](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.3-%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F)
 
 &emsp;&emsp;&emsp;&emsp;[1.3.1-适配器模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.3-%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.3.1-%E9%80%82%E9%85%8D%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
