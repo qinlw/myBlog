@@ -40,3 +40,5 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.3.5-外观模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.3-%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.3.5-%E5%A4%96%E8%A7%82%E6%A8%A1%E5%BC%8F.md)
 
+&emsp;&emsp;&emsp;&emsp;[1.3.6-享元模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.3-%E7%BB%93%E6%9E%84%E5%9E%8B%E6%A8%A1%E5%BC%8F/1.3.6-%E4%BA%AB%E5%85%83%E6%A8%A1%E5%BC%8F.md)
+
