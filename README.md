@@ -48,3 +48,5 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.4.1-责任链模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.1-%E8%B4%A3%E4%BB%BB%E9%93%BE%E6%A8%A1%E5%BC%8F.md)
 
+&emsp;&emsp;&emsp;&emsp;[1.4.2-命令模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.2-%E5%91%BD%E4%BB%A4%E6%A8%A1%E5%BC%8F.md)
+
