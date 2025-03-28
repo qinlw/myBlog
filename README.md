@@ -52,3 +52,5 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.4.3-迭代器模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.3-%E8%BF%AD%E4%BB%A3%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
+&emsp;&emsp;&emsp;&emsp;[1.4.4-中介者模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.4-%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+
