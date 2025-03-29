@@ -54,3 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.4.4-中介者模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.4-%E4%B8%AD%E4%BB%8B%E8%80%85%E6%A8%A1%E5%BC%8F.md)
 
+&emsp;&emsp;&emsp;&emsp;[1.4.5-备忘录模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.5-%E5%A4%87%E5%BF%98%E5%BD%95%E6%A8%A1%E5%BC%8F.md)
+
+&emsp;&emsp;&emsp;&emsp;[1.4.6-观察者模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.6-%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F.md)
+
