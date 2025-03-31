@@ -62,3 +62,5 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.4.8-状态模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.8-%E7%8A%B6%E6%80%81%E6%A8%A1%E5%BC%8F.md)
 
+&emsp;&emsp;&emsp;&emsp;[1.4.9-模板方法模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.9-%E6%A8%A1%E6%9D%BF%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8F.md)
+
