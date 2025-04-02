@@ -68,3 +68,7 @@
 
 &emsp;&emsp;&emsp;&emsp;[1.4.11-解释器模式](https://github.com/qinlw/myBlog/blob/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.4-%E8%A1%8C%E4%B8%BA%E6%A8%A1%E5%BC%8F/1.4.11-%E8%A7%A3%E9%87%8A%E5%99%A8%E6%A8%A1%E5%BC%8F.md)
 
+[2.1-Redis](https://github.com/qinlw/myBlog/tree/main/2-Redis)
+
+&emsp;&emsp;[2.1-Redis基础](https://github.com/qinlw/myBlog/blob/main/2-Redis/2.1-Redis%E5%9F%BA%E7%A1%80.md)
+
