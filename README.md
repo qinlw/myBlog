@@ -74,3 +74,5 @@
 
 &emsp;&emsp;[2.2-Redis进阶](https://github.com/qinlw/myBlog/blob/main/2-Redis/2.2-Redis%E8%BF%9B%E9%98%B6.md)
 
+&emsp;&emsp;[2.3-Redis核心](https://github.com/qinlw/myBlog/blob/main/2-Redis/2.3-Redis%E6%A0%B8%E5%BF%83.md)
+
