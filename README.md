@@ -6,6 +6,8 @@
 
 &emsp;&emsp;[抽象类中虚析构的作用](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/%E6%8A%BD%E8%B1%A1%E7%B1%BB%E4%B8%AD%E8%99%9A%E6%9E%90%E6%9E%84%E7%9A%84%E4%BD%9C%E7%94%A8.md)
 
+&emsp;&emsp;[VS使用CMake构建QT项目遇到的问题](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/VS%E4%BD%BF%E7%94%A8CMake%E6%9E%84%E5%BB%BAQT%E9%A1%B9%E7%9B%AE%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98.md)
+
 [1-设计模式](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 &emsp;&emsp;[1.1-设计基础](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.1-%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80)
