@@ -18,7 +18,9 @@
 
 这样就会自动生成 ui_MainInterface.h, 通常在 `out\build\x64-Debug\Demo_autogen\include` 目录中。 
 
-有了它，就直接改而引用 `ui_MainInterface.h` 文件。 
+有了它，就直接改而引用 ui_MainInterface.h 文件。 
 
 ![QT中UI头文件的正确引用示例.png](../res/0-title/QT中UI头文件的正确引用示例.png)
+
+注意：ui_MainInterface.h 的生成可能需要一定，如果发现仍然报错稍稍等待即可。
 
