@@ -2,6 +2,8 @@
 
 [头文件引用错误](#头文件引用错误)
 
+[目标缺少可执行文件](#目标缺少可执行文件)
+
 --- 
 
 ## 头文件引用错误
@@ -24,3 +26,26 @@
 
 注意：ui_MainInterface.h 的生成可能需要一定时间，如果发现仍然报错稍稍等待即可。
 
+## 目标缺少可执行文件
+
+报错如下：
+
+![目标缺少可执行文件报错图片.png](#../res/0-title/目标缺少可执行文件报错图片.png)
+
+### 可能的引发原因
+
+新建了 Sources 和 Headers 目录，分类放置.cpp .h文件。
+
+此时 .cpp .h 文件和CMakeLists.txt已经不在同级目录了。之后又手动删除了out文件，导致原ui_MainInterface.h文件也被删除。
+
+此时cmake在构建时找不到文件，导致报错。
+
+### 解决办法
+
+将构建目录添加到头文件搜索路径中。
+
+如：`target_include_directories(${PROJECT_NAME} PRIVATE ${CMAKE_CURRENT_SOURCE_DIR})`
+
+注意该操作的插入位置应该在 `add_executable` 之后。
+
+![目标缺少可执行文件的解决图示](../res/0-title/目标缺少可执行文件的解决图示.png)
