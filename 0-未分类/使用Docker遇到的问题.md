@@ -24,10 +24,9 @@
     "max-file": "3"
   },
   "registry-mirrors": [
-    "https://<ÄãµÄID>.mirror.aliyuncs.com",
     "https://docker.mirrors.ustc.edu.cn",
     "https://hub-mirror.c.163.com"
-      "https://dockerproxy.com",
+    "https://dockerproxy.com",
   ]
 }
 
