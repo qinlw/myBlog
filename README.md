@@ -80,7 +80,7 @@
 
 &emsp;&emsp;[2.3-Redis核心](https://github.com/qinlw/myBlog/blob/main/2-Redis/2.3-Redis%E6%A0%B8%E5%BF%83.md)
 
-[3-Redis核心](https://github.com/qinlw/myBlog/tree/main/3-Docker)
+[3-Docker](https://github.com/qinlw/myBlog/tree/main/3-Docker)
 
 &emsp;&emsp;[3.1-Docker命令一览](https://github.com/qinlw/myBlog/blob/main/3-Docker/3.1-Docker%E5%91%BD%E4%BB%A4%E4%B8%80%E8%A7%88.md)
 
