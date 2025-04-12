@@ -10,7 +10,7 @@
 
 由于国内网络访问限制，docker 无法 pull。
 
-这里解决办法很简单，直接使用镜像即可，操作如下：
+这里解决办法很简单，直接使用镜像源即可，操作如下：
 
 在 /etc/docker/ 目录下打开 daemon.json （没有就创建）文件。
 
@@ -18,21 +18,17 @@
 
 ```
 {
-    "log-driver": "json-file",
-    "log-opts": {
-        "max-size": "20m",
-        "max-file": "3"
-    },
-    "registry-mirrors": [
-      "https://docker.1ms.run",
-      "https://docker.xuanyuan.me",
-      "https://docker.wanpeng.life",
-      "https://docker.imgdb.de",
-      "https://dockerproxy.cn",
+  "log-driver": "json-file",
+  "log-opts": {
+    "max-size": "20m",
+    "max-file": "3"
+  },
+  "registry-mirrors": [
+    "https://<你的ID>.mirror.aliyuncs.com",
+    "https://docker.mirrors.ustc.edu.cn",
+    "https://hub-mirror.c.163.com"
       "https://dockerproxy.com",
-      "https://dockerpull.cn",
-      "https://docker.1panel.live"
-    ]
+  ]
 }
 
 ```
@@ -41,7 +37,7 @@
 
 ### 无法login_search
 
-有了镜像源，虽然可以正常进行大部分操作，但仍然有部分命令无法使用。
+有了镜像源，虽然可以正常进行大部分操作，但仍然有部分命令可能无法使用。
 
 问题如下（以下图片中的问题都是重新演示出来的，与原报错有所出入，但大致意思无二）：
 
