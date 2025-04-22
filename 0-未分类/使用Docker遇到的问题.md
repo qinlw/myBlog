@@ -2,6 +2,8 @@
 
 [Docker_login_search超时及被拒绝连接的问题](#Docker_login_search超时及被拒绝连接的问题)
 
+[DockerHub认证凭证错误](#DockerHub认证凭证错误)
+
 --- 
 
 ## Docker_login_search超时及被拒绝连接的问题
@@ -86,3 +88,25 @@ Docker 的网络设置和代理配置与主机不一致，导致 Docker search 镜像时无法走自己设置
 ![docker使用成功演示1.png](../res/0-title/docker使用成功演示1.png)
 
 ![docker使用成功演示2.png](../res/0-title/docker使用成功演示2.png)
+
+## DockerHub认证凭证错误
+
+在 docker login 时报错如下：
+
+![DockerHub登录失败.png](../res/0-title/DockerHub登录失败.png)
+
+打开链接看到报错信息如下：
+
+![DockerHub登录失败报错信息.png](../res/0-title/DockerHub登录失败报错信息.png)
+
+### 可能的报错原因
+
+- Docker Hub的安全策略变更：Docker Hub强制要求通过命令行（如docker login）登录时必须使用个人访问令牌替代账户密码，由此使用原密码登录时会产生报错。
+
+### 解决办法
+
+使用个人访问令牌登录。
+
+创建个人访问令牌步骤如下：
+
+![DockerHub个人令牌设置办法.png](../res/0-title/DockerHub个人令牌设置办法.png)
