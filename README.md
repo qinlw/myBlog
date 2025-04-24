@@ -12,6 +12,8 @@
 
 &emsp;&emsp;[虚拟机空间扩容](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/%E8%99%9A%E6%8B%9F%E6%9C%BA%E7%A9%BA%E9%97%B4%E6%89%A9%E5%AE%B9.md)
 
+&emsp;&emsp;[虚拟机CentOS9自定义安装参考](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/%E8%99%9A%E6%8B%9F%E6%9C%BACentOS9%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83.md)
+
 [1-设计模式](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 &emsp;&emsp;[1.1-设计基础](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.1-%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80)
