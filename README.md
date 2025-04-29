@@ -100,3 +100,6 @@
 
 &emsp;&emsp;[4.1-Qt网络编程](https://github.com/qinlw/myBlog/blob/main/4-QT/4.1-Qt%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B.md)
 
+[5-RocketMQ](https://github.com/qinlw/myBlog/tree/main/5-RocketMQ)
+
+&emsp;&emsp;[5.1-RocketMQ单节点部署与消息基础操作](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.1-RocketMQ%E5%8D%95%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E4%B8%8E%E6%B6%88%E6%81%AF%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C.md)
