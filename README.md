@@ -104,4 +104,4 @@
 
 &emsp;&emsp;[5.1-RocketMQ单节点部署与消息基础操作](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.1-RocketMQ%E5%8D%95%E8%8A%82%E7%82%B9%E9%83%A8%E7%BD%B2%E4%B8%8E%E6%B6%88%E6%81%AF%E5%9F%BA%E7%A1%80%E6%93%8D%E4%BD%9C.md)
 
-&emsp;&emsp;[5.2-RocketMQ集群部署与监控](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.2-RocketMQ%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2%E4%B8%8E%E7%9B%91%E6%8E%A7.md)
+&emsp;&emsp;[5.2-RocketMQ集群部署](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.2-RocketMQ%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
