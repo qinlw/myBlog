@@ -106,4 +106,6 @@
 
 &emsp;&emsp;[5.2-RocketMQ集群部署](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.2-RocketMQ%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2.md)
 
-&emsp;&emsp;[5.2-RocketMQ集群监控](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.3-RocketMQ%E9%9B%86%E7%BE%A4%E7%9B%91%E6%8E%A7.md)
+&emsp;&emsp;[5.3-RocketMQ集群监控](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.3-RocketMQ%E9%9B%86%E7%BE%A4%E7%9B%91%E6%8E%A7.md)
+
+&emsp;&emsp;[5.4RocketMQ部署模式 ](https://github.com/qinlw/myBlog/blob/main/5-RocketMQ/5.4-RocketMQ%E9%83%A8%E7%BD%B2%E6%A8%A1%E5%BC%8F.md)
