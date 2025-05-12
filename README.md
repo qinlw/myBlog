@@ -14,6 +14,8 @@
 
 &emsp;&emsp;[虚拟机CentOS9自定义安装参考](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/%E8%99%9A%E6%8B%9F%E6%9C%BACentOS9%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%89%E8%A3%85%E5%8F%82%E8%80%83.md)
 
+&emsp;&emsp;[MySQL的卸载与安装](https://github.com/qinlw/myBlog/blob/main/0-%E6%9C%AA%E5%88%86%E7%B1%BB/MySQL%E7%9A%84%E5%8D%B8%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85.md)
+
 [1-设计模式](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
 
 &emsp;&emsp;[1.1-设计基础](https://github.com/qinlw/myBlog/tree/main/1-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/1.1-%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80)
