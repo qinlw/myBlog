@@ -14,11 +14,12 @@
 - 删除安装目录的 MySQL 项目 
 	- 默认在 C:\Program Files 、C:\Program Files (x86)、C:\ProgramData 里面找。
 - 删除 MySQL 相关注册表，通过 win + r 输入 regedit 进入
-	- 计算机\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\EventLog\Application\MySQL
-	- 计算机\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Services\EventLog\Application\MySQL
-	- 计算机\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Application\MySQL 
-	<br />（没有就别管）
-- 重启电脑
+	- HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\EventLog\Application\
+	- HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Services\EventLog\Application\
+	- HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\EventLog\Application\ 
+	- HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\
+	<br />（在这里面找有没有MySQL之类的，有就删掉，没有就别管）
+- 确认服务中没有 MySQL 后重启电脑（直接搜索服务，或者 win + r 输入 services.msc 进入）
 
 
 # 下载
